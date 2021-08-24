@@ -1,9 +1,9 @@
 {
-  "name": "HackerWeb",
+  "name": "Site PWA",
   "short_name": "HackerWeb",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "#003D00",
   "description": "A simply readable Hacker News app.",
   "icons": [{
     "src": "images/touch/homescreen48.png",
