@@ -1,33 +1,33 @@
 {
-  "name": "Site PWA",
-  "short_name": "HackerWeb",
+  "name": "PWA",
+  "short_name": "PWA",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#003D00",
-  "description": "A simply readable Hacker News app.",
+  "background_color": "#fff",
+  "description": "Web App Manifest.",
   "icons": [{
-    "src": "images/touch/homescreen48.png",
+    "src": "./images/pwa48.png",
     "sizes": "48x48",
-    "type": "img/pwa48.png"
+    "type": "/image/png"
   }, {
-    "src": "images/touch/homescreen72.png",
+    "src": "./images/pwa72.png",
     "sizes": "72x72",
-    "type": "img/pwa72png"
+    "type": "image/png"
   }, {
-    "src": "images/touch/homescreen96.png",
+    "src": "./images/pwa96.png",
     "sizes": "96x96",
-    "type": "img/pwa96.png"
+    "type": "image/png"
   }, {
-    "src": "images/touch/homescreen144.png",
+    "src": "./images/pwa144.png",
     "sizes": "144x144",
-    "type": "img/pwa144.png"
+    "type": "image/png"
   }, {
-    "src": "images/touch/homescreen168.png",
+    "src": "./images/pwa168.png",
     "sizes": "168x168",
-    "type": "img/pwa168.png"
+    "type": "image/png"
   }, {
-    "src": "images/touch/homescreen192.png",
+    "src": "./images/pwa192.png",
     "sizes": "192x192",
-    "type": "img/pwa192.png"
+    "type": "image/png"
   }]
 }
